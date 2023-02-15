@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Jordan",
+        "price": "250$",
+        "image": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jordan",
+        "price": "230$",
+        "image": "1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jordan",
+        "price": "300$",
+        "image": "1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jordan",
+        "price": "170$",
+        "image": "1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jordan",
+        "price": "110$",
+        "image": "1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jordan",
+        "price": "100$",
+        "image": "1.jpg"
+    }
+]
