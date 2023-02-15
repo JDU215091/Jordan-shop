@@ -119,16 +119,8 @@
     padding: 5px;
     border-radius: 5px;
 }
-.cart-up-side{
-    background-color: #CAFDBB;
-}
-
 .cart-item-right-side p{
     margin: 0;
-}
-.cart-item-left-side img{
-    max-width: 110px;
-    padding: 15px 10px 0px;
 }
 .cart-down-side{
     display: flex;
@@ -164,4 +156,6 @@
 .small-cart{
     display: flex;
     padding: 5px;
+    background-color: #CAFDBB;
+    margin-bottom: 10px;
 }
